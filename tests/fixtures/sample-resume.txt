@@ -1,0 +1,29 @@
+Leonardo W. DiCaprio
+3300 Nowhere Ave, Los Angeles, CA 90001
+hello@open-resume.org
+(123) 456-7890
+linkedin.com/in/open-resume
+
+Summary
+Passionate actor and environmentalist with over 20 years of experience in the film industry. Dedicated to submitting high-quality resumes.
+
+Experience
+OpenResume, Software Engineer
+New York, NY
+Jan 2023 - Present
+• Designed and implemented the resume parser algorithm using TypeScript.
+• Improved parsing accuracy by 20% through feature scoring optimization.
+
+Google, Senior Software Engineer
+Mountain View, CA
+Jan 2020 - Dec 2022
+• Led the development of a new cloud-based resume storage system.
+• Mentored junior engineers and conducted code reviews.
+
+Education
+University of California, Los Angeles
+Bachelor of Arts in Theater
+Sep 1999 - Jun 2003
+
+Skills
+JavaScript, TypeScript, React, Redux, Node.js, Python, Java, C++, SQL, NoSQL, AWS, Docker, Kubernetes
